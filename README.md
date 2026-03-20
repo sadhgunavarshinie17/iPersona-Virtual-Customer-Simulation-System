@@ -58,24 +58,14 @@ iPersona/
 - Python 3.10 or higher
 - An [OpenAI API key](https://platform.openai.com/api-keys)
 
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 **Key packages:**
 ```
-pyqt6
 pandas
 numpy
 scikit-learn
 matplotlib
 seaborn
 openai
-joblib
-openpyxl
-markdown
 ```
 
 ### Configure API Key
